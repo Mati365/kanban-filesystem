@@ -4,7 +4,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mati365/jira-filesystem?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/mati365/jira-filesystem?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Known Vulnerabilities](https://snyk.io/test/github/Mati365/jira-filesystem/badge.svg?targetFile=package.json&style=flat-square)](https://snyk.io/test/github/Mati365/jira-filesystem?targetFile=package.json)
 
 Bored of navigation over slow JIRA web UI? Nothing lost! Use JIRA as your Linux FUSE filesystem!
 

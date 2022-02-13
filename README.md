@@ -1,13 +1,25 @@
-# jira-filesystem
+# kanban-filesystem
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mati365/jira-filesystem?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/mati365/jira-filesystem?style=flat-square)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mati365/kanban-filesystem?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/mati365/kanban-filesystem?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Bored of navigation over slow JIRA web UI? Nothing lost! Use JIRA as your Linux FUSE filesystem!
+Bored of navigation over slow JIRA/Trello/etc. web UI? Nothing lost! Use both kanbans as your Linux FUSE filesystem!
 
 ## Proof of concept
+
+### Supported kanbans 
+
+Filesystem should provide simple interface to introduce new kinds of kanbans but most popular kanbans such as:
+ 
+[ ] JIRA
+[ ] Trello
+[ ] Github
+
+would be supported out of the box.
+
+### Folder structure
 
 Directory structure (generated using https://tree.nathanfriend.io/):
 

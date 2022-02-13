@@ -13,9 +13,9 @@ Bored of navigation over slow JIRA/Trello/etc. web UI? Nothing lost! Use both ka
 
 Filesystem should provide simple interface to introduce new kinds of kanbans but most popular kanbans such as:
  
-[ ] JIRA
-[ ] Trello
-[ ] Github
+- [ ] JIRA
+- [ ] Trello
+- [ ] Github
 
 would be supported out of the box.
 
